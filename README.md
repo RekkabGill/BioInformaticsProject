@@ -1,6 +1,6 @@
 # BioInformatics Project
 
-Author: Rekkab Gill
+Author: Rekkab Gill  
 Date: April 2021
 
 ## Purpose:
