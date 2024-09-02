@@ -1,4 +1,4 @@
-# BioInformatics Project
+# BioInformatics and Machine Learning Project
 
 Author: Rekkab Gill  
 Date: April 2021
